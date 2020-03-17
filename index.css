@@ -1,0 +1,32 @@
+.a{
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 50px;
+    padding-bottom: 10px;
+}
+.b{
+    margin-left: 16px;
+}
+.c{
+    height: 20px;
+    color: red;
+    margin-left: 68px;
+    font-size: 14px;
+}
+input{
+    height: 35px;
+    width: 200px;
+    padding-left: 10px;
+    border: 1px solid;
+    margin-left: 10px;
+}
+#code{
+    width: 95px;
+}
+button{
+    height: 38px;
+    width: 90px;
+    margin-left: 10px;
+    font-size: 14px;
+    border: 1px solid;
+}
